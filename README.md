@@ -50,7 +50,7 @@ A classic Machine Learning mini-project where I explore, clean, and model the Ti
 
 ## 📎 Kaggle Submission
 
-Achieved **73.67% accuracy** using Logistic Regression on the cleaned dataset. Submission was made successfully to the Kaggle Titanic competition.
+Achieved ** 92.25 % accuracy** using Logistic Regression on the cleaned dataset. Submission was made successfully to the Kaggle Titanic competition.
 
 ---
 
